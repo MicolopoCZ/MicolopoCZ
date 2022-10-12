@@ -1,4 +1,4 @@
-### Guten tag 👋
+### Sup 👋
 
 <h3 align="center">Studying on SPSMB, IT, Second year</h3>
 
