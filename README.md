@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **java, javascript**
 
-- 📫 How to reach me **armymisa@gmail.com**
-
 - ⚡ Fun fact **I respond to messages either instantly or it can be days.**
 
 <p align="left">
