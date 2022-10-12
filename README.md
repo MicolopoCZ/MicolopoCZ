@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **java, javascript**
 
-- ⚡ Fun fact **I respond to messages either instantly or it can be days.**
+- ⚡ Fun fact **I have no idea what I want to do.**
 
 <p align="left">
 </p>
