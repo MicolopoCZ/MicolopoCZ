@@ -8,7 +8,6 @@
 
 - ⚡ Fun fact **I respond to messages either instantly or it can be days.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
