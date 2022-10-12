@@ -1,4 +1,16 @@
-### Hi there 👋
+### Guten tag 👋
+
+<h3 align="center">Studying on SPSMB, IT, Second year</h3>
+
+- 🌱 I’m currently learning **java, javascript**
+
+- 📫 How to reach me **armymisa@gmail.com**
+
+- ⚡ Fun fact **I respond to messages either instantly or it can be days.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <!--
 **MicolopoCZ/MicolopoCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
