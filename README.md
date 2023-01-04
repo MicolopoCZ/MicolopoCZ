@@ -1,5 +1,7 @@
 ### Sup
 
+https://media.tenor.com/VglqcKbThnEAAAAd/print-hello-world-hacker.gif
+
 <h3 align="center">Studying on SPSMB, IT, Second year</h3>
 
 - I’m currently learning **java, javascript**
@@ -8,7 +10,7 @@
 
 - My hobbies **Airsoft, Knife collecting**
 
-- Fun fact **I have no idea what I want to do.**
+- Fun fact **I have no idea what Im doing.**
 
 <p align="left">
 </p>
