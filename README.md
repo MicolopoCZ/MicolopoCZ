@@ -1,6 +1,6 @@
 ### Sup
 
-![](https://media.tenor.com/VglqcKbThnEAAAAd/print-hello-world-hacker.gif)
+![](https://github.com/MicolopoCZ/Resources/blob/main/print-hello-world-hacker.gif)
 
 <h3 align="center">Studying on SPSMB, IT, Second year</h3>
 
