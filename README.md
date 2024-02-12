@@ -1,6 +1,6 @@
 ### Sup
 
-<h3 align="center">Studying on SPSMB, IT, Second year</h3>
+<h3 align="center">Studying on SPSMB, IT, Third year</h3>
 
 - I’m currently learning **typescript, electron & react**
 
@@ -8,7 +8,7 @@
 
 - My hobbies **Airsoft, Knife collecting**
 
-- Fun fact **I still have no idea what Im doing.**
+- Fun fact **I have no idea what Im doing.**
 
 ![](https://github.com/MicolopoCZ/Resources/blob/main/print-hello-world-hacker.gif)
 
