@@ -8,7 +8,7 @@
 
 - My hobbies **Airsoft, Knife collecting**
 
-- Fun fact **I have little idea of what Im doing.**
+- Fun fact **There is no fun fact.**
 
 ![](https://github.com/MicolopoCZ/Resources/blob/main/print-hello-world-hacker.gif)
 
